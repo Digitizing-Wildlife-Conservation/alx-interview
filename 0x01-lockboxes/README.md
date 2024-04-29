@@ -1,0 +1,4 @@
+  0x01. Lockboxes Algorithm Python
+
+
+Moses Muchai, a Lead Software Engineer at Holberton, Mastercard Foundation ALX Software Engineering Short Specialization,currently immersed in a project involving a fascinating challenge: unlocking a series of sequentially numbered boxes. In this intriguing scenario, each box contains keys, potentially including keys to other boxes, with the first box already unlocked. The rules are clear: a key matching a box number opens that box, there can be keys without corresponding boxes, and some boxes might be empty. To tackle this puzzle, Moses is tasked with crafting a function, canUnlockAll(boxes), which takes a list of lists representing the boxes and determines whether it's possible to unlock all of them. This engaging project combines logic, problem-solving, and software engineering skills, promising an exciting endeavor for Moses and his team.
